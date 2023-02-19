@@ -1,0 +1,16 @@
+/home/maciej/java-projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/entity/Product.java
+/home/maciej/java-projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/event/OrderEvent.java
+/home/maciej/java-projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/exception/OrderNotFoundException.java
+/home/maciej/java-projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/event/OrderCancelledEvent.java
+/home/maciej/java-projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/entity/Restaurant.java
+/home/maciej/java-projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/OrderDomainService.java
+/home/maciej/java-projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/valueobject/OrderItemId.java
+/home/maciej/java-projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/entity/Customer.java
+/home/maciej/java-projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/valueobject/TrackingId.java
+/home/maciej/java-projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/exception/OrderDomainException.java
+/home/maciej/java-projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/entity/Order.java
+/home/maciej/java-projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/valueobject/StreetAddress.java
+/home/maciej/java-projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/event/OrderPaidEvent.java
+/home/maciej/java-projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/entity/OrderItem.java
+/home/maciej/java-projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/event/OrderCreatedEvent.java
+/home/maciej/java-projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/OrderDomainServiceImpl.java
