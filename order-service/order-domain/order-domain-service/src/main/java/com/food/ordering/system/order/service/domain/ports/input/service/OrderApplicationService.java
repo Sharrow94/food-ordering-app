@@ -9,7 +9,7 @@ import com.food.ordering.system.order.service.domain.dto.track.TrackOrderRespons
 
 public interface OrderApplicationService {
 
-	CreateOrderResponse cerateOrder(@Valid CreateOrderCommand createOrderCommand);
+	CreateOrderResponse createOrder(@Valid CreateOrderCommand createOrderCommand);
 	
 	TrackOrderResponse trackOrder(@Valid TrackOrderQuery trackOrderQuery);
 }
